@@ -1,2 +1,2 @@
-# MiniSiteTemplate
-Mini Site Template to fork from for the Bootcamp Javascript projects
+# Reverse
+This program simply takes a user input and outputs the word or phrase backwards.
